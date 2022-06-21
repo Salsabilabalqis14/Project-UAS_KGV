@@ -1,0 +1,3 @@
+﻿  PatrickHanrahan.cpp
+D:\KGV\Project\MyProject3\PatrickHanrahan.cpp(264,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  MyProject.vcxproj -> D:\KGV\Project\MyProject3\x64\Debug\MyProject.exe
